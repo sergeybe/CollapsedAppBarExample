@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollapsedAppBarExample</string>
+    <string name="action_listview">Show ListView</string>
+    <string name="action_recyclerview">Show RecyclerView</string>
+</resources>
